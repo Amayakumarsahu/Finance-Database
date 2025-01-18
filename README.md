@@ -1,0 +1,1 @@
+The Finance database is a tool designed to help users manage their personal finances effectively. It offers functionalities for budgeting, expense tracking. In this we can add expense, view expense and delete the expense and we can delete our expenses by specific date or by giving a range of specific date.
