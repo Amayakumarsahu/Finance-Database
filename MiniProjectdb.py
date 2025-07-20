@@ -14,3 +14,4 @@ price REAL)""")
 conn.commit()
 conn.close()
 
+
